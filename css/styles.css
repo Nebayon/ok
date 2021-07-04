@@ -29,9 +29,9 @@ p{
   line-height: 2;
 }
 
-hr{
-  border: doated #eaf6f6 6px;
-  padding-bottom: none;
+hr {
+  border: dotted #40514e 6px;
+  border-bottom: none;
   width: 4%;
   margin: 100px auto;
 }
