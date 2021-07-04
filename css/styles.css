@@ -93,6 +93,11 @@ a:hover{
   top: 40px;
 }
 
+.needed-to{
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
 .bottom-cloud{
   position: absolute;
   left: 300px;
